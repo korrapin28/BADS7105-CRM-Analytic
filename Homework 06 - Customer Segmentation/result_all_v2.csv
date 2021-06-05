@@ -1,0 +1,29 @@
+Row Labels,Count of CUST_CODE,Count of CUST_CODE2,Sum of TOTAL_SPEND,Average of TOTAL_SPEND2,Average of AVG_SPEND,Average of TOTAL_VISIT,Average of AVG_VISIT_PER_MONTH,Average of LAST_VISIT,Average of AGE
+1,104,1.7%,25%," 3,588 ",12.8,308.4,11.7,0.1,26.5
+4,418,6.9%,43%," 1,546 ",14.5,116.0,4.6,0.5,25.4
+6,532,8.7%,18%, 496 ,24.2,22.0,0.9,1.4,23.0
+2,1859,30.5%,9%, 76 ,5.4,12.8,0.7,2.3,18.5
+5,309,5.1%,3%, 135 ,29.5,4.7,0.8,5.9,8.2
+3,853,14.0%,1%, 20 ,6.2,3.1,0.8,14.6,4.5
+(blank),2025,33.2%,1%, 8 ,8.4,1.0,0.0,15.4,0.0
+Grand Total,6100,100.0%,100%, 246 ,10.1,20.0,1.0,8.3,10.9
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Row Labels,Count of CUST_CODE,Count of CUST_CODE2,Sum of TOTAL_SPEND,Average of AVG_SPEND,Average of TOTAL_VISIT,Average of AVG_VISIT_PER_MONTH,Average of LAST_VISIT,Average of AGE,
+1,131,2.1%,0.5%,53.8,1.0,0.0,15.1,0.0,
+2,928,15.2%,0.3%,5.4,1.0,0.0,21.7,0.0,
+3,966,15.8%,0.3%,5.1,1.0,0.0,9.3,0.0,
+(blank),4075,66.8%,98.9%,11.0,29.5,1.4,4.8,16.3,
+Grand Total,6100,100.0%,100.0%,10.1,20.0,1.0,8.3,10.9,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Count of CUST_CODE,Column Labels,,,,,,,,
+Row Labels,1,4,6,2,5,3,Grand Total,,
+Grocery,7%,5%,6%,25%,11%,33%,21%,,
+Mixed,26%,32%,52%,17%,55%,23%,27%,,
+Non-food,0%,0%,2%,8%,2%,13%,7%,,
+Fresh,67%,63%,41%,51%,33%,31%,45%,,
+Grand Total,100%,100%,100%,100%,100%,100%,100%,,
